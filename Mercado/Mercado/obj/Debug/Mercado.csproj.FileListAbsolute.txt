@@ -1,0 +1,7 @@
+C:\Users\calebe.anascimento\Documents\Mercado\Mercado\bin\Debug\Mercado.exe.config
+C:\Users\calebe.anascimento\Documents\Mercado\Mercado\bin\Debug\Mercado.exe
+C:\Users\calebe.anascimento\Documents\Mercado\Mercado\bin\Debug\Mercado.pdb
+C:\Users\calebe.anascimento\Documents\Mercado\Mercado\obj\Debug\Mercado.csproj.AssemblyReference.cache
+C:\Users\calebe.anascimento\Documents\Mercado\Mercado\obj\Debug\Mercado.csproj.CoreCompileInputs.cache
+C:\Users\calebe.anascimento\Documents\Mercado\Mercado\obj\Debug\Mercado.exe
+C:\Users\calebe.anascimento\Documents\Mercado\Mercado\obj\Debug\Mercado.pdb
